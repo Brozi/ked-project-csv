@@ -1,0 +1,11 @@
+﻿com.samsung.health.oxygen_saturation.raw,6311013,1
+start_time,binning_data,update_time,create_time,is_integrated,time_offset,deviceuuid,comment,pkg_name,end_time,datauuid
+2026-03-09 23:48:00.000,ed3129b8-2c0e-4975-873c-901904e3d230.binning_data.json,2026-03-10 07:53:38.945,2026-03-10 07:53:38.945,,UTC+0100,VhFspb+oN4,,com.sec.android.app.shealth,2026-03-10 07:30:00.000,ed3129b8-2c0e-4975-873c-901904e3d230,
+2026-03-11 00:19:00.000,e73b4e16-5504-4f7a-a448-376da01f3801.binning_data.json,2026-03-11 08:14:28.097,2026-03-11 08:14:28.097,,UTC+0100,VhFspb+oN4,,com.sec.android.app.shealth,2026-03-11 07:50:00.000,e73b4e16-5504-4f7a-a448-376da01f3801,
+2026-03-11 23:18:00.000,23fc5fa6-d478-479a-a0ac-50cb5bbe9133.binning_data.json,2026-03-12 06:20:27.212,2026-03-12 06:20:27.212,,UTC+0100,VhFspb+oN4,,com.sec.android.app.shealth,2026-03-12 06:11:00.000,23fc5fa6-d478-479a-a0ac-50cb5bbe9133,
+2026-03-12 22:06:00.000,e79617d5-8349-4b27-9ae2-b161ffe45683.binning_data.json,2026-03-13 06:50:07.875,2026-03-13 06:50:07.875,,UTC+0100,VhFspb+oN4,,com.sec.android.app.shealth,2026-03-13 06:44:00.000,e79617d5-8349-4b27-9ae2-b161ffe45683,
+2026-03-13 23:38:00.000,7133c116-7c86-45f2-996e-5cf8e287f834.binning_data.json,2026-03-14 06:46:28.234,2026-03-14 06:46:28.234,,UTC+0100,VhFspb+oN4,,com.sec.android.app.shealth,2026-03-14 06:20:00.000,7133c116-7c86-45f2-996e-5cf8e287f834,
+2026-03-15 00:48:00.000,ac546a12-1f01-406b-b1d7-423079ac9e81.binning_data.json,2026-03-15 06:23:01.177,2026-03-15 06:23:01.177,,UTC+0100,VhFspb+oN4,,com.sec.android.app.shealth,2026-03-15 05:57:00.000,ac546a12-1f01-406b-b1d7-423079ac9e81,
+2026-03-15 06:19:00.000,8a2081fa-d15d-4688-8c2a-755b9575e79b.binning_data.json,2026-03-15 08:06:40.285,2026-03-15 08:06:40.285,,UTC+0100,VhFspb+oN4,,com.sec.android.app.shealth,2026-03-15 07:48:00.000,8a2081fa-d15d-4688-8c2a-755b9575e79b,
+2026-03-16 01:05:00.000,05c4b2ba-e77c-44b4-86f4-3fbaa551234a.binning_data.json,2026-03-16 08:44:11.958,2026-03-16 08:44:11.958,,UTC+0100,VhFspb+oN4,,com.sec.android.app.shealth,2026-03-16 08:18:00.000,05c4b2ba-e77c-44b4-86f4-3fbaa551234a,
+2026-03-17 00:45:00.000,4bd98e7c-0bfa-4d99-8ee7-645db3c7eb97.binning_data.json,2026-03-17 08:01:07.552,2026-03-17 08:01:07.552,,UTC+0100,VhFspb+oN4,,com.sec.android.app.shealth,2026-03-17 07:35:00.000,4bd98e7c-0bfa-4d99-8ee7-645db3c7eb97,

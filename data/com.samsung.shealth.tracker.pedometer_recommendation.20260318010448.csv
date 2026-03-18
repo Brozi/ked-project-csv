@@ -1,0 +1,5 @@
+﻿com.samsung.shealth.tracker.pedometer_recommendation,6311013,5
+update_time,create_time,value,time_offset,deviceuuid,pkg_name,set_time,datauuid
+2020-05-02 11:40:02.067,2020-05-02 11:40:02.067,10000,UTC+0200,m3h9nVfJDO,com.sec.android.app.shealth,1588419602059,ed902a3a-8f07-485c-9cdc-2fb36686a2ef,
+2025-08-02 12:59:16.087,2025-08-02 12:59:16.087,12800,UTC+0200,Mk66SbFqK1,com.sec.android.app.shealth,1751633955992,b5d73e44-ded5-4f81-af5f-18a89e24f354,
+2025-08-02 12:59:16.096,2020-08-03 16:55:30.778,12800,UTC+0200,BPYUPn3BBR,com.sec.android.app.shealth,1596473730770,d68cae2d-d6ea-a078-c955-5d2f82c12caf,

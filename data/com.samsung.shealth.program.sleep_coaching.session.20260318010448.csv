@@ -1,0 +1,4 @@
+﻿com.samsung.shealth.program.sleep_coaching.session,6311013,4
+create_sh_ver,mission_count,is_report_read,start_date,survey,modify_sh_ver,update_time,create_time,data_version,type,deviceuuid,contents_version,pkg_name,end_date,datauuid
+63030110,231,1,2025-08-19 00:00:00.000,eb0ed24f-aa4f-49ea-8958-6e68497f9f29.survey.json,63030110,2025-09-13 03:49:01.753,2025-08-18 05:37:56.913,3,4,CdeuO5Zn7i,3,com.sec.android.app.shealth,2025-09-08 00:00:00.000,eb0ed24f-aa4f-49ea-8958-6e68497f9f29,
+63051050,126,1,2025-10-06 00:00:00.000,661fd95b-8774-4893-ac72-7ea6376a86fe.survey.json,63051050,2025-11-08 07:27:57.338,2025-10-04 22:32:31.144,3,1,CdeuO5Zn7i,3,com.sec.android.app.shealth,2025-10-26 00:00:00.000,661fd95b-8774-4893-ac72-7ea6376a86fe,

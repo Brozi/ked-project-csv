@@ -1,0 +1,10 @@
+﻿com.samsung.shealth.breathing,6311013,4
+duration,create_sh_ver,start_time,exhale_hold_duration,custom,modify_sh_ver,update_time,create_time,exhale_duration,type,cycle,time_offset,deviceuuid,inhale_hold_duration,pkg_name,end_time,datauuid,inhale_duration
+60,,2020-05-02 11:04:10.992,,,,2020-05-02 11:05:11.408,2020-05-02 11:05:11.408,,,6,UTC+0200,BPYUPn3BBR,,com.sec.android.app.shealth,2020-05-02 11:05:11.315,56bb9eeb-51b1-75ae-8d73-653c564fd346,,
+60,,2021-04-14 21:35:41.776,,,,2021-04-14 21:36:42.247,2021-04-14 21:36:42.247,,,6,UTC+0200,BPYUPn3BBR,,com.sec.android.app.shealth,2021-04-14 21:36:42.080,266591e6-a3f7-55f5-8869-7922e060a4fa,,
+54,,2021-06-15 01:28:20.544,,,,2021-06-15 01:29:14.931,2021-06-15 01:29:14.931,,,6,UTC+0200,BPYUPn3BBR,,com.sec.android.app.shealth,2021-06-15 01:29:14.809,47a26a8b-674d-df11-9e4c-1fce2964de0a,,
+54,,2021-07-24 00:07:19.703,,,,2021-07-24 00:08:14.211,2021-07-24 00:08:14.211,,,6,UTC+0200,BPYUPn3BBR,,com.sec.android.app.shealth,2021-07-24 00:08:13.946,3d5a419f-f3b0-8a9d-5b3b-1966a67983cd,,
+54,,2021-08-15 01:48:07.001,,,,2021-08-15 01:49:01.535,2021-08-15 01:49:01.535,,,6,UTC+0200,BPYUPn3BBR,,com.sec.android.app.shealth,2021-08-15 01:49:01.278,405b772b-9d37-6768-754e-e5e4ec64a74e,,
+54,,2024-06-04 07:48:39.041,,,,2024-06-04 07:49:33.523,2024-06-04 07:49:33.523,,,6,UTC+0200,BPYUPn3BBR,,com.sec.android.app.shealth,2024-06-04 07:49:33.303,d618e10d-e983-e30f-ddc7-944dd8cc71ff,,
+0,,2025-08-04 01:15:21.219,,,,2025-08-04 01:15:21.274,2025-08-04 01:15:21.274,,,0,UTC+0200,YDRm/TcCOZ,,com.sec.android.app.shealth,2025-08-04 01:15:21.219,eb1b9392-ec46-469c-8766-0fc7e6a23172,,
+21000,63070031,2026-02-17 20:45:44.828,4,,63070031,2026-02-17 20:46:10.831,2026-02-17 20:46:10.831,4,1,1,UTC+0100,VhFspb+oN4,4,com.sec.android.app.shealth,2026-02-17 20:46:10.824,30f41b8b-0506-4163-8cd0-6c8f1271123b,4,

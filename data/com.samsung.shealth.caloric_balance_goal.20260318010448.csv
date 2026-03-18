@@ -1,0 +1,5 @@
+﻿com.samsung.shealth.caloric_balance_goal,6311013,1
+target_weight,daily_target_adjust,update_time,create_time,goal_state,start_weight,weekly_target_diff,time_offset,deviceuuid,pkg_name,set_time,datauuid,goal_type
+66.5,0.32,2020-05-02 13:32:24.221,2020-05-02 13:32:24.221,1,71.5,-0.25,UTC+0200,m3h9nVfJDO,com.sec.android.app.shealth,1588426344216,c63677f4-4cda-4de6-bd7e-9d8b1f287196,0,
+66.5,0.32,2020-07-22 11:36:05.918,2020-07-22 11:36:05.918,1,71.5,-0.25,UTC+0200,m3h9nVfJDO,com.sec.android.app.shealth,1595417765904,e1407b02-990f-444f-8aa7-321b2df2700e,0,
+66.5,0.32,2020-07-22 15:14:59.088,2020-07-22 15:14:59.088,1,71.5,-0.25,UTC+0200,m3h9nVfJDO,com.sec.android.app.shealth,1595430899075,a14b00ab-98e1-4d31-b018-77fa734cb145,0,

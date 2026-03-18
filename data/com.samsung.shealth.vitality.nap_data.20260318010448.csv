@@ -1,0 +1,4 @@
+﻿com.samsung.shealth.vitality.nap_data,6311013,1
+create_sh_ver,start_time,modify_sh_ver,update_time,create_time,time_offset,vitality_day_time,deviceuuid,pkg_name,score_before,end_time,datauuid,score_after
+63070030,2026-01-03 09:36:00.000,63070030,2026-01-03 12:45:26.670,2026-01-03 12:45:26.670,UTC+0100,1767398400000,CdeuO5Zn7i,com.sec.android.app.shealth,84.231094,2026-01-03 12:15:30.000,29b94bf2-57fa-4450-844e-c681e606cb12,89.730835,
+63070030,2026-02-24 07:14:00.000,63070030,2026-02-24 09:12:03.919,2026-02-24 09:12:03.919,UTC+0100,1771891200000,CdeuO5Zn7i,com.sec.android.app.shealth,79.84155,2026-02-24 09:00:00.000,daa864a6-f8e8-4e05-88a6-536d37a8c6ab,86.32422,

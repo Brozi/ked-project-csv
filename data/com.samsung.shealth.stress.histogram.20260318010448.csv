@@ -1,0 +1,14 @@
+﻿com.samsung.shealth.stress.histogram,6311013,2
+update_time,create_time,base_hr,decay_time,deviceuuid,pkg_name,histogram,datauuid
+2020-05-02 10:42:14.449,2020-05-02 10:42:14.449,83300,1588416134,BPYUPn3BBR,com.sec.android.app.shealth,78b4cbc3-6580-b86b-3b39-14130d5c1f29.histogram.json,78b4cbc3-6580-b86b-3b39-14130d5c1f29,
+2020-12-27 15:38:50.238,2020-12-25 00:09:15.117,85533,1609083530,BPYUPn3BBR,com.sec.android.app.shealth,270c6ff5-0b39-8cff-5c89-25f8c90f706e.histogram.json,270c6ff5-0b39-8cff-5c89-25f8c90f706e,
+2020-12-08 15:55:04.178,2020-07-22 11:50:09.263,78455,1607442904,BPYUPn3BBR,com.sec.android.app.shealth,37e4aec1-015d-a330-9dc1-8b9b34dbe3b2.histogram.json,37e4aec1-015d-a330-9dc1-8b9b34dbe3b2,
+2021-10-10 18:19:30.501,2021-10-07 04:04:26.188,83300,1633887440,BPYUPn3BBR,com.sec.android.app.shealth,41c41019-5c21-5d1e-3d34-a0400847dec5.histogram.json,41c41019-5c21-5d1e-3d34-a0400847dec5,
+2021-10-21 19:18:05.102,2021-10-10 20:58:22.344,72476,1634843771,BPYUPn3BBR,com.sec.android.app.shealth,6a11e816-8b62-8bcf-4954-9dc4d58aa4cb.histogram.json,6a11e816-8b62-8bcf-4954-9dc4d58aa4cb,
+2021-10-21 19:48:09.635,2021-10-21 19:41:49.631,84400,1634845309,BPYUPn3BBR,com.sec.android.app.shealth,2d6c7f83-5929-7d82-2934-e341ff07f8c1.histogram.json,2d6c7f83-5929-7d82-2934-e341ff07f8c1,
+2023-01-19 07:29:56.822,2021-10-21 20:38:34.239,71906,1674112692,BPYUPn3BBR,com.sec.android.app.shealth,14e5ab42-52a7-cb26-9a1f-c17ac806a231.histogram.json,14e5ab42-52a7-cb26-9a1f-c17ac806a231,
+2025-07-31 06:30:52.341,2023-11-18 12:38:41.504,85588,1753942763,BPYUPn3BBR,com.sec.android.app.shealth,9c6042d8-7a49-c9e4-0bcd-7b8d8ed79e42.histogram.json,9c6042d8-7a49-c9e4-0bcd-7b8d8ed79e42,
+2021-10-07 03:45:53.477,2020-12-28 20:17:02.481,71545,1633575647,BPYUPn3BBR,com.sec.android.app.shealth,f8966f27-b8e7-7303-9fe5-a8c71fd7b5f8.histogram.json,f8966f27-b8e7-7303-9fe5-a8c71fd7b5f8,
+2025-08-04 14:16:35.558,2025-08-01 13:03:21.788,85587,1754316995,YDRm/TcCOZ,com.sec.android.app.shealth,cd3e8417-66ba-4766-aa27-9268790057ce.histogram.json,cd3e8417-66ba-4766-aa27-9268790057ce,
+2025-08-07 13:17:58.566,2025-08-05 15:56:04.282,80450,1754572570,BPYUPn3BBR,com.sec.android.app.shealth,7bff139c-59b0-d175-c830-2a80519ec29f.histogram.json,7bff139c-59b0-d175-c830-2a80519ec29f,
+2026-03-18 00:00:03.819,2025-08-07 15:28:23.355,75017,1773791684,VhFspb+oN4,com.sec.android.app.shealth,a06076bf-7ea3-40ea-a46f-f4f84a863188.histogram.json,a06076bf-7ea3-40ea-a46f-f4f84a863188,
