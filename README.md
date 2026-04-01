@@ -69,7 +69,6 @@ Notebook zakłada, że plik CSV zawiera kolumny odpowiadające m.in.:
 - `Max`
 - `Min`
 - `Score`
-- `Stress`
 
 Jeżeli Twój eksport ma inne nazwy/układ kolumn, dostosuj parametry `read_csv(...)` w notebooku (np. `usecols`, `names`).
 
